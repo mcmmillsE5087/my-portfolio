@@ -89,7 +89,7 @@ section{
     display: flex;
     align-items: center;
     padding:0 9%; 
-    background: url("/PERSONAL-PORTFOLIO/images/borjedt.jpg") no-repeat right bottom;
+    background: url("./images//borjedt.jpg") no-repeat right bottom;
     /* background-size: cover;
     background-position: center; */
 }
